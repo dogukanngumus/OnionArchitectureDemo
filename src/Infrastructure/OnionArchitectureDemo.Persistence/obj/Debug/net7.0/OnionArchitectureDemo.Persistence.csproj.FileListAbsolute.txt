@@ -1,0 +1,17 @@
+/Users/apple/Projects/OnionArchitectureDemo/src/Infrastructure/OnionArchitectureDemo.Persistence/bin/Debug/net7.0/OnionArchitectureDemo.Persistence.deps.json
+/Users/apple/Projects/OnionArchitectureDemo/src/Infrastructure/OnionArchitectureDemo.Persistence/bin/Debug/net7.0/OnionArchitectureDemo.Persistence.dll
+/Users/apple/Projects/OnionArchitectureDemo/src/Infrastructure/OnionArchitectureDemo.Persistence/bin/Debug/net7.0/OnionArchitectureDemo.Persistence.pdb
+/Users/apple/Projects/OnionArchitectureDemo/src/Infrastructure/OnionArchitectureDemo.Persistence/bin/Debug/net7.0/OnionArchitectureDemo.Application.dll
+/Users/apple/Projects/OnionArchitectureDemo/src/Infrastructure/OnionArchitectureDemo.Persistence/bin/Debug/net7.0/OnionArchitectureDemo.Domain.dll
+/Users/apple/Projects/OnionArchitectureDemo/src/Infrastructure/OnionArchitectureDemo.Persistence/bin/Debug/net7.0/OnionArchitectureDemo.Application.pdb
+/Users/apple/Projects/OnionArchitectureDemo/src/Infrastructure/OnionArchitectureDemo.Persistence/bin/Debug/net7.0/OnionArchitectureDemo.Domain.pdb
+/Users/apple/Projects/OnionArchitectureDemo/src/Infrastructure/OnionArchitectureDemo.Persistence/obj/Debug/net7.0/OnionArchitectureDemo.Persistence.csproj.AssemblyReference.cache
+/Users/apple/Projects/OnionArchitectureDemo/src/Infrastructure/OnionArchitectureDemo.Persistence/obj/Debug/net7.0/OnionArchitectureDemo.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Projects/OnionArchitectureDemo/src/Infrastructure/OnionArchitectureDemo.Persistence/obj/Debug/net7.0/OnionArchitectureDemo.Persistence.AssemblyInfoInputs.cache
+/Users/apple/Projects/OnionArchitectureDemo/src/Infrastructure/OnionArchitectureDemo.Persistence/obj/Debug/net7.0/OnionArchitectureDemo.Persistence.AssemblyInfo.cs
+/Users/apple/Projects/OnionArchitectureDemo/src/Infrastructure/OnionArchitectureDemo.Persistence/obj/Debug/net7.0/OnionArchitectureDemo.Persistence.csproj.CoreCompileInputs.cache
+/Users/apple/Projects/OnionArchitectureDemo/src/Infrastructure/OnionArchitectureDemo.Persistence/obj/Debug/net7.0/OnionArchitectureDemo.Persistence.csproj.CopyComplete
+/Users/apple/Projects/OnionArchitectureDemo/src/Infrastructure/OnionArchitectureDemo.Persistence/obj/Debug/net7.0/OnionArchitectureDemo.Persistence.dll
+/Users/apple/Projects/OnionArchitectureDemo/src/Infrastructure/OnionArchitectureDemo.Persistence/obj/Debug/net7.0/refint/OnionArchitectureDemo.Persistence.dll
+/Users/apple/Projects/OnionArchitectureDemo/src/Infrastructure/OnionArchitectureDemo.Persistence/obj/Debug/net7.0/OnionArchitectureDemo.Persistence.pdb
+/Users/apple/Projects/OnionArchitectureDemo/src/Infrastructure/OnionArchitectureDemo.Persistence/obj/Debug/net7.0/ref/OnionArchitectureDemo.Persistence.dll

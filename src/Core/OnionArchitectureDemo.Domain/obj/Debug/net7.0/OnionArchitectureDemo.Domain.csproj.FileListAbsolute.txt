@@ -1,0 +1,12 @@
+/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Domain/bin/Debug/net7.0/OnionArchitectureDemo.Domain.deps.json
+/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Domain/bin/Debug/net7.0/OnionArchitectureDemo.Domain.dll
+/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Domain/bin/Debug/net7.0/OnionArchitectureDemo.Domain.pdb
+/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Domain/obj/Debug/net7.0/OnionArchitectureDemo.Domain.csproj.AssemblyReference.cache
+/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Domain/obj/Debug/net7.0/OnionArchitectureDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Domain/obj/Debug/net7.0/OnionArchitectureDemo.Domain.AssemblyInfoInputs.cache
+/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Domain/obj/Debug/net7.0/OnionArchitectureDemo.Domain.AssemblyInfo.cs
+/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Domain/obj/Debug/net7.0/OnionArchitectureDemo.Domain.csproj.CoreCompileInputs.cache
+/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Domain/obj/Debug/net7.0/OnionArchitectureDemo.Domain.dll
+/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Domain/obj/Debug/net7.0/refint/OnionArchitectureDemo.Domain.dll
+/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Domain/obj/Debug/net7.0/OnionArchitectureDemo.Domain.pdb
+/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Domain/obj/Debug/net7.0/ref/OnionArchitectureDemo.Domain.dll

@@ -1,0 +1,15 @@
+/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Application/bin/Debug/net7.0/OnionArchitectureDemo.Application.deps.json
+/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Application/bin/Debug/net7.0/OnionArchitectureDemo.Application.dll
+/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Application/bin/Debug/net7.0/OnionArchitectureDemo.Application.pdb
+/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Application/bin/Debug/net7.0/OnionArchitectureDemo.Domain.dll
+/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Application/bin/Debug/net7.0/OnionArchitectureDemo.Domain.pdb
+/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Application/obj/Debug/net7.0/OnionArchitectureDemo.Application.csproj.AssemblyReference.cache
+/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Application/obj/Debug/net7.0/OnionArchitectureDemo.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Application/obj/Debug/net7.0/OnionArchitectureDemo.Application.AssemblyInfoInputs.cache
+/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Application/obj/Debug/net7.0/OnionArchitectureDemo.Application.AssemblyInfo.cs
+/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Application/obj/Debug/net7.0/OnionArchitectureDemo.Application.csproj.CoreCompileInputs.cache
+/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Application/obj/Debug/net7.0/OnionArchitectureDemo.Application.csproj.CopyComplete
+/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Application/obj/Debug/net7.0/OnionArchitectureDemo.Application.dll
+/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Application/obj/Debug/net7.0/refint/OnionArchitectureDemo.Application.dll
+/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Application/obj/Debug/net7.0/OnionArchitectureDemo.Application.pdb
+/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Application/obj/Debug/net7.0/ref/OnionArchitectureDemo.Application.dll

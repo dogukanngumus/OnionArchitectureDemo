@@ -1,0 +1,280 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/apple/Projects/OnionArchitectureDemo/src/WebApi/OnionArchitectureDemo.WebApi/OnionArchitectureDemo.WebApi.csproj": {}
+  },
+  "projects": {
+    "/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Application/OnionArchitectureDemo.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Application/OnionArchitectureDemo.Application.csproj",
+        "projectName": "OnionArchitectureDemo.Application",
+        "projectPath": "/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Application/OnionArchitectureDemo.Application.csproj",
+        "packagesPath": "/Users/apple/.nuget/packages/",
+        "outputPath": "/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/apple/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Domain/OnionArchitectureDemo.Domain.csproj": {
+                "projectPath": "/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Domain/OnionArchitectureDemo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Domain/OnionArchitectureDemo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Domain/OnionArchitectureDemo.Domain.csproj",
+        "projectName": "OnionArchitectureDemo.Domain",
+        "projectPath": "/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Domain/OnionArchitectureDemo.Domain.csproj",
+        "packagesPath": "/Users/apple/.nuget/packages/",
+        "outputPath": "/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/apple/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/apple/Projects/OnionArchitectureDemo/src/Infrastructure/OnionArchitectureDemo.Persistence/OnionArchitectureDemo.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/apple/Projects/OnionArchitectureDemo/src/Infrastructure/OnionArchitectureDemo.Persistence/OnionArchitectureDemo.Persistence.csproj",
+        "projectName": "OnionArchitectureDemo.Persistence",
+        "projectPath": "/Users/apple/Projects/OnionArchitectureDemo/src/Infrastructure/OnionArchitectureDemo.Persistence/OnionArchitectureDemo.Persistence.csproj",
+        "packagesPath": "/Users/apple/.nuget/packages/",
+        "outputPath": "/Users/apple/Projects/OnionArchitectureDemo/src/Infrastructure/OnionArchitectureDemo.Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/apple/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Application/OnionArchitectureDemo.Application.csproj": {
+                "projectPath": "/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Application/OnionArchitectureDemo.Application.csproj"
+              },
+              "/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Domain/OnionArchitectureDemo.Domain.csproj": {
+                "projectPath": "/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Domain/OnionArchitectureDemo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/apple/Projects/OnionArchitectureDemo/src/WebApi/OnionArchitectureDemo.WebApi/OnionArchitectureDemo.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/apple/Projects/OnionArchitectureDemo/src/WebApi/OnionArchitectureDemo.WebApi/OnionArchitectureDemo.WebApi.csproj",
+        "projectName": "OnionArchitectureDemo.WebApi",
+        "projectPath": "/Users/apple/Projects/OnionArchitectureDemo/src/WebApi/OnionArchitectureDemo.WebApi/OnionArchitectureDemo.WebApi.csproj",
+        "packagesPath": "/Users/apple/.nuget/packages/",
+        "outputPath": "/Users/apple/Projects/OnionArchitectureDemo/src/WebApi/OnionArchitectureDemo.WebApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/apple/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/sdk/7.0.304/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Application/OnionArchitectureDemo.Application.csproj": {
+                "projectPath": "/Users/apple/Projects/OnionArchitectureDemo/src/Core/OnionArchitectureDemo.Application/OnionArchitectureDemo.Application.csproj"
+              },
+              "/Users/apple/Projects/OnionArchitectureDemo/src/Infrastructure/OnionArchitectureDemo.Persistence/OnionArchitectureDemo.Persistence.csproj": {
+                "projectPath": "/Users/apple/Projects/OnionArchitectureDemo/src/Infrastructure/OnionArchitectureDemo.Persistence/OnionArchitectureDemo.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
